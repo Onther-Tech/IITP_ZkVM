@@ -1,0 +1,19 @@
+[workspace]
+
+members = [
+    "readerwriter",
+    "merkle",
+    "starsig",
+    "musig",
+    # "keytree",
+    "spacesuit",
+    "zkvm",
+    # "blockchain",
+    # "token",
+    # "accounts",
+    # "p2p",
+    # "node",
+]
+
+# `demo` crate is built separately with nightly as required by Rocket
+exclude = ["demo"]

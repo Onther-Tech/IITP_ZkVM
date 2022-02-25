@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/hwangjaeseung/workspace/IITP/ZkVM/target/debug/build/typenum-c45c48627ab6db89/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/hwangjaeseung/workspace/IITP/ZkVM/target/debug/build/typenum-c45c48627ab6db89/out/op.rs
